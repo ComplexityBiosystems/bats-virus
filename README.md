@@ -1,5 +1,6 @@
 # bats-virus
 A model for virus-immune systems interactions in bats.
+The code is a Mathematica notebook.
 
 The model has been used to generate the results of the paper:
 
