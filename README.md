@@ -6,7 +6,8 @@ The model has been used to generate the results of the paper:
 
 Role of body temperature variations in bats immune response to viral infections
 
-M. R. Fumagalli, S. Zapperi, C. A. M. La Porta
+Fumagalli, Maria Rita, Stefano Zapperi, and Caterina AM La Porta. 
+"Role of body temperature variations in bat immune response to viral infections." Journal of the Royal Society Interface 18.180 (2021): 20210211.
 
-submitted
+
 
